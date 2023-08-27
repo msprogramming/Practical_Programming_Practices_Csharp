@@ -24,7 +24,6 @@ Console.WriteLine("///msprogramming.ir");
 bool Has_Condition(int inputNumber)
 {
     HashSet<int> set = new HashSet<int>();
-
     var number = inputNumber;
     var digit = 0;
     for (int i = 0; i < 3; i++)
